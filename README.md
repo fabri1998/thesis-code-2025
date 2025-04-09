@@ -1,6 +1,8 @@
 # thesis-code-2025
 My code I used/created under my thesis for creating my "fake" sensors.
 
+<-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 Quick Step-By-Step
 
 1. Started by creating an 'Installation' in IoT-Open with the company's information, such as name, address, users, etc.
