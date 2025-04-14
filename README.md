@@ -36,3 +36,5 @@ In my case, I had the following sensors to simulate data for:
 ![image](https://github.com/user-attachments/assets/c9afcf38-0cf4-4a0b-8c04-be9acb336669)
 
 6. The final step of the project was to create an interactive dashboard for the customer, where they could experiment with the data and get a concrete understanding of how everything works. This also provides a better insight into how our services function in practice.
+
+![Screenshot from 2025-04-14 10-36-53](https://github.com/user-attachments/assets/91571e3e-7346-4c1e-bf29-b661409123d3)
