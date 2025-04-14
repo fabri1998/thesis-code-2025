@@ -16,7 +16,7 @@ I have created three containers:
 
     - A Node-RED instance to create various "rules" if necessary.
 
-![image](https://github.com/user-attachments/assets/530ccc25-4d37-4b0e-9de6-e21d138091ca)
+![a4d29520-b9c5-481a-bc7f-4e6b6bea2c0d](https://github.com/user-attachments/assets/53802094-fe45-4e82-a7f4-e2fec549aa22)
 
 3. In step three, it is simply a matter of sitting down and starting to write code for each sensor the customer wishes to simulate. I am using Visual Studio Code for this.
 In my case, I had the following sensors to simulate data for:
